@@ -1,0 +1,4 @@
+﻿Whiskey1,Udaiyan Single,Assay1a,Assay1b,Assay1c,Assay1d
+Whiskey2,Udaiyan Blend,Assay2a,Assay2b,Assay2c,Assay2d
+Whiskey3,Udaiyan Bourbon,Assay3a,Assay3b,Assay3c,Assay3d
+Whiskey4,Udaiyan Rye,Assay4a,Assay4b,Assay4c,Assay4d
